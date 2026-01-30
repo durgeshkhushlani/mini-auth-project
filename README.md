@@ -19,4 +19,4 @@ A simple authentication system with signup and login functionality built using N
 2. Run `npm install`
 3. Create a `.env` file with MongoDB URI and PORT
 4. Run `node server.js`
-5. Open `http://localhost:3
+5. Open `http://localhost:3000
